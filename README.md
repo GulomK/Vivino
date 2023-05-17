@@ -1,14 +1,18 @@
 # Welcome to My Vivino
-***
+Welcome
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+What is the problem? And where is the challenge?
+Almost there was no problem, although there were some difficulties with the blog post, 
+but all fixed
 
 ## Description
-TODO - How have you solved the problem?
+How have you solved the problem?
+I fixed the problem with friends and Google
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+How to install your project? npm install? make? make re?
+Don't need install  anything
 
 ## Usage
 TODO - How does it work?
